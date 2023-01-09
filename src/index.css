@@ -38,6 +38,16 @@ body {
   box-shadow: 0px 0px 15px gray;
 }
 
+.logo{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  color: rgb(34, 30, 30);
+
+}
+
 .Header, .Footer {
   width: 100%;
   background-color: #66d8f5;
@@ -45,11 +55,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.Header .logo{
-  color: white;
-  text-decoration: none;
 }
 
 .Header h1 {
