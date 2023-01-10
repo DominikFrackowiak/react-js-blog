@@ -1,40 +1,22 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "1st post",
-      "datetime": "July 16, 2021 11:47:39 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    {
-      "id": 2,
-      "title": "Second post",
-      "datetime": "July 16, 2021 11:47:48 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
-    },
-    {
-      "id": 3,
-      "title": "Number Three",
-      "datetime": "July 16, 2021 11:48:01 AM",
-      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    {
-      "id": 4,
-      "title": "Testing a 4th post",
-      "datetime": "August 02, 2021 11:46:27 AM",
-      "body": "Some more testing paragraphs!"
-    },
-    {
-      "id": 1672770105578,
-      "datetime": "03 January 2023 7:21:45 PM",
-      "title": "waldek",
-      "body": "waldek - dobry chlop\n"
-    },
-    {
       "id": 1672832909299,
-      "datetime": "05 January 2023 10:04:10 AM",
+      "datetime": "10 January 2023 1:46:59 PM",
       "title": "Andrzy - zuch chlopina",
-      "body": "Zuch chlopina, co sie trochu spina\nDejmy mu wina, poprawi mu sie mina"
+      "body": "Andrzy - zuch chlopina, choc sie trochu spina\nDejmy mu wina, poprawi mu sie mina\n"
+    },
+    {
+      "id": 1673289140113,
+      "datetime": "09 January 2023 7:44:31 PM",
+      "title": "Pizza",
+      "body": "Pizza Arogante"
+    },
+    {
+      "id": 1673353529364,
+      "datetime": "10 January 2023 1:25:29 PM",
+      "title": "coca-cola",
+      "body": "coca-cola loca-lola rockendrola pragnie ola"
     }
   ]
 }
